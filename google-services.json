@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380955153796",
+    "project_id": "jacksparrow-50816",
+    "storage_bucket": "jacksparrow-50816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380955153796:android:d0e8f3ce8bf318c22b79d1",
+        "android_client_info": {
+          "package_name": "com.example.jacksparrowr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjEfbuPaX5WIBLzX6euYRxT8MuxTDL0IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
